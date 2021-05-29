@@ -1,0 +1,4 @@
+﻿  Hash-Polinom.cpp
+C:\Users\Alex\source\repos\Hash-Polinom\Hash-Polinom.cpp(82,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alex\source\repos\Hash-Polinom\Hash-Polinom.cpp(106,20): warning C4018: '<': signed/unsigned mismatch
+  Hash-Polinom.vcxproj -> C:\Users\Alex\source\repos\Hash-Sum\Debug\Hash-Polinom.exe

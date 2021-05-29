@@ -1,0 +1,4 @@
+﻿  Hash-Sum.cpp
+C:\Users\Alex\source\repos\Hash-Sum\Hash-Sum.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alex\source\repos\Hash-Sum\Hash-Sum.cpp(90,20): warning C4018: '<': signed/unsigned mismatch
+  Hash-Sum.vcxproj -> C:\Users\Alex\source\repos\Hash-Sum\Debug\Hash-Sum.exe
