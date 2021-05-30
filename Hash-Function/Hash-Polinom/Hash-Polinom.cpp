@@ -73,8 +73,7 @@ long long ModulMult(long long x, long long  y)
 /// <param name="word"></param>
 /// <param name="polin"></param>
 /// <returns>
-/// Неотрицательный хеш, если слово существует. 
-/// -1, иначе 
+///  РќРµРѕС‚СЂРёС†Р°С‚РµР»СЊРЅС‹Р№ С…РµС€, РµСЃР»Рё СЃР»РѕРІРѕ СЃСѓС‰РµСЃС‚РІСѓРµС‚. -1, РёРЅР°С‡Рµ.
 /// </returns>
 int HashFunc(string& word, long long* polin)
 {
